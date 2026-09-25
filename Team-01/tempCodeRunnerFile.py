@@ -1,0 +1,1 @@
+print("This is a trial code for day - 01")
